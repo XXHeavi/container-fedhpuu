@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "XXHeavi",
+  "repo": "container-fedhpuu",
+  "name": "XXHeavi",
+  "email": "METTATABLEHOOK@outlook.com",
+}
